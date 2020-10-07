@@ -1,0 +1,11 @@
+.foot{
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: grey;
+    color: white;
+    width: -webkit-fill-available;
+}
