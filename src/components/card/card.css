@@ -53,3 +53,21 @@ p{
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+@media only screen and (max-width:500px){
+    .cardc{
+        margin: 2rem;
+    }
+    .c{
+        grid-template-columns: 1fr;
+    }
+    .c1-2{
+        justify-content: center;
+    }
+    .c1-1{
+        justify-content: center;
+    }
+    .c2{
+        justify-content: space-around;
+    }
+}
