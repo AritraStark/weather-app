@@ -1,3 +1,8 @@
 .about{
     padding: 15rem;
 }
+@media only screen and (max-width:500px){
+    .about{
+        padding: 5rem;
+    }
+}

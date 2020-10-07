@@ -9,3 +9,9 @@
     color: white;
     width: -webkit-fill-available;
 }
+@media only screen and (max-width:500px){
+    .foot{
+        position: fixed;
+        margin: 0;
+    }
+}
