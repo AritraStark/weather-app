@@ -1,9 +1,6 @@
 # weather-app
-<br/>
-Live [Link](https://competent-stonebraker-66043e.netlify.app/)
-<br/>
-Made Using [MaterialUI](https://material-ui.com/)
-<br/>
+Live [Link](https://competent-stonebraker-66043e.netlify.app/)\
+Made Using [MaterialUI](https://material-ui.com/)\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
