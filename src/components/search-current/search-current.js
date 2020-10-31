@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import {makeStyles} from '@material-ui/core';
 import TextField from '@material-ui/core/TextField';
 import './search.css';
-import Cardc from '../card/card';
+import Cardc from '../cardc/cardc';
 import { Button } from '@material-ui/core';
 import SearchIcon from '@material-ui/icons/Search';
 

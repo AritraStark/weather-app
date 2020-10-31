@@ -43,6 +43,9 @@ function Nav() {
                     <Link to="/current" className={classes.link}>
                       <Button color="inherit">Current</Button>
                     </Link>
+                    <Link to="/history" className={classes.link}>
+                      <Button color="inherit">Forecast</Button>
+                    </Link>
                 </Toolbar>
             </AppBar>            
         </div>
